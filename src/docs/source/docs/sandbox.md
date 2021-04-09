@@ -25,8 +25,10 @@ This file is for practicing updates to the PECE Docs.
 <<<<<<< HEAD
 ### Hipolito Angel Cerros
 
-- My favorite page on pece-docs is [this one] (../)
--
+- My favorite page on pece-docs is [this one] (../legal)
+- This was created using the instructions provided by [Lindsay Poirier](#lindsay-poirier).
+
+![](media/hipolito-cerros.png)
 =======
 ### Farhat Bin Aznan
 - I like the [installation page](../installation) on PECE docs.
